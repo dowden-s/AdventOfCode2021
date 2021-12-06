@@ -5,3 +5,4 @@ Day 2, both parts were successful.
 Day 3, both parts were successful.
 Day 4, both parts were unsuccessful.
 Day 5, both parts were successful.
+Day 6, both parts were successful.
